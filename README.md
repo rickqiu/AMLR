@@ -1,2 +1,2 @@
 # AMLR
-Examples for hyper parameter tuning, deep learning with R
+Advanced Machine Learning / Deep Learning with R

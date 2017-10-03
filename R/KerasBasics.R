@@ -58,6 +58,3 @@ y_test_actual <- as.integer(DNA$Class[-idx]) -1
 cm <- caret::confusionMatrix(y_pred, softmax(y_test_actual))
 cm
 cm$byClass[,'F1']
-
-
-
